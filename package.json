@@ -1,7 +1,7 @@
 {
   "name": "bale-desktop",
   "description": "Bale Desktop Application",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "main.js",
   "bin": "main.js",
   "homepage": "https://baleapp.vercel.app",
