@@ -1,6 +1,6 @@
 # Bale Desktop Application
 
-Baleh is the social-financial network of Bank Melli Iran that simultaneously enables communication and payments. With Baleh, you can easily make voice and video calls and share your moments with friends using the "Status" feature.
+Bale is the social-financial network of Bank Melli Iran that simultaneously enables communication and payments. With Bale, you can easily make voice and video calls and share your moments with friends using the "Status" feature.
 
 ## Features
 

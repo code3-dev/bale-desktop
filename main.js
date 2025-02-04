@@ -89,7 +89,7 @@ function createWindow() {
             dialog.showMessageBox(win, {
               type: 'info',
               title: 'About Bale',
-              message: `Baleh is the social-financial network of Bank Melli Iran that simultaneously enables communication and payments. With Baleh, you can easily make voice and video calls and share your moments with friends using the "Status" feature.\nVersion: 1.0.0`,
+              message: `Bale is the social-financial network of Bank Melli Iran that simultaneously enables communication and payments. With Bale, you can easily make voice and video calls and share your moments with friends using the "Status" feature.\nVersion: 1.1.0`,
               buttons: ['OK'],
             });
           }
